@@ -5,7 +5,7 @@ published: true
 
 これは [フィヨルドブートキャンプ Part 1 Advent Calendar 2021](https://adventar.org/calendars/6331) の 12 日目の記事です。
 11 日目の記事は [paru](https://twitter.com/Paru871) さんの「[本が読めない人だったことに今頃気づいた私が輪読会に救われた話](https://paru871.hatenablog.com/entry/2021/12/11/141509)」でした。
-13 日目の記事は [masuyama13](https://twitter.com/masuyama_13) さんが書いてくれます。
+13 日目の記事は [masuyama13](https://twitter.com/masuyama_13) さんの「[コードより先にコミットメッセージを書く](https://techblog.tebiki.co.jp/commit-message-first-a6485aeffbae)」です。
 [フィヨルドブートキャンプ Part 2 Advent Calendar 2021](https://adventar.org/calendars/6360) もあるのでよければどうぞ。
 
 # はじめに
