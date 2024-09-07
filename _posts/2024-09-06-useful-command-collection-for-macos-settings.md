@@ -6,8 +6,8 @@ published: true
 いずれもリファレンスをを見つけられていないので、実行するときは自己責任でお願いします :pray:
 macOS-defaults というサイトにいろいろ情報が載っていて便利。
 
-- https://macos-defaults.com/
-- https://github.com/yannbertrand/macos-defaults
+- [https://macos-defaults.com/](https://macos-defaults.com/)
+- [https://github.com/yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults)
 
 # Launchpad のアプリの並び順をリセットする
 
