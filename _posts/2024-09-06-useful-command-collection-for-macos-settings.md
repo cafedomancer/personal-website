@@ -30,5 +30,5 @@ $ defaults write com.apple.screencapture disable-shadow -boolean FALSE
 # キーを長押ししたときにその文字の入力を繰り返す
 
 ```
-defaults write NSGlobalDomain ApplePressAndHoldEnabled -boolean FALSE
+$ defaults write NSGlobalDomain ApplePressAndHoldEnabled -boolean FALSE
 ```
