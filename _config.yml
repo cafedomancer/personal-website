@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -47,24 +46,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Machine learning
-    web_url: https://github.com/topics/machine-learning
-
-  - name: Natural language processing
-    web_url: https://github.com/topics/nlp
-
-  - name: Neovim
-    web_url: https://github.com/topics/neovim
-    image_url: https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png
-
   - name: Rails
     web_url: https://github.com/topics/rails
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png
 
-  - name: Ruby
-    web_url: https://github.com/topics/ruby
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png
-
-  - name: friendly interactive shell
+  - name: Fish
     web_url: https://github.com/topics/fish
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png
+
+  - name: Vim
+    web_url: https://github.com/topics/vim
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png
