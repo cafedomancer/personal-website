@@ -24,7 +24,7 @@ $ sudo dscl . -change /Users/$USER UserShell /bin/zsh /opt/homebrew/bin/fish
 # スクリーンショットの影を無くす
 
 ```
-$ defaults write com.apple.screencapture disable-shadow -boolean FALSE
+$ defaults write com.apple.screencapture disable-shadow -boolean TRUE
 ```
 
 # キーを長押ししたときにその文字の入力を繰り返す
