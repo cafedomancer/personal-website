@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(mv 2019-01-29-hello-world.md hello-world.md)",
+      "Bash(mv 2021-12-12-encouragement-of-pair-programming.md encouragement-of-pair-programming.md)",
+      "Bash(mv 2022-12-12-bokan-and-sorta.md bokan-and-sorta.md)",
+      "Bash(mv 2024-03-01-swtich-from-yarn-to-npm-on-jsbundling-rails.md switch-from-yarn-to-npm-on-jsbundling-rails.md)",
+      "Bash(mv 2024-09-06-useful-command-collection-for-macos-settings.md useful-command-collection-for-macos-settings.md)"
+    ]
+  }
+}

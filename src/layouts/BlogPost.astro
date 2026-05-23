@@ -1,0 +1,33 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+
+interface Props {
+	title: string;
+	description: string;
+	pubDate?: Date;
+	updatedDate?: Date;
+}
+
+const { title, description, pubDate, updatedDate } = Astro.props;
+---
+
+<html lang="ja">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+	<body>
+		<main>
+			<article>
+				<h1>{title}</h1>
+				{pubDate && (
+					<p>
+						<FormattedDate date={pubDate} />
+						{updatedDate && <span> (updated: <FormattedDate date={updatedDate} />)</span>}
+					</p>
+				)}
+				<slot />
+			</article>
+		</main>
+	</body>
+</html>

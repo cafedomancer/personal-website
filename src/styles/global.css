@@ -1,0 +1,48 @@
+body {
+	font-family: system-ui, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #222;
+	font-size: 1rem;
+	line-height: 1.6;
+}
+
+main {
+	max-width: 640px;
+	margin: 0 auto;
+	padding: 2rem 1rem;
+}
+
+a {
+	color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	line-height: 1.2;
+}
+
+pre {
+	overflow-x: auto;
+	padding: 1em;
+	background: #f5f5f5;
+}
+
+code {
+	font-size: 0.9em;
+	background: #f5f5f5;
+	padding: 0.1em 0.3em;
+}
+
+pre > code {
+	background: none;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+}
