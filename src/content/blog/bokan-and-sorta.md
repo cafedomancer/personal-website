@@ -1,6 +1,7 @@
 ---
 title: "bokan と sorta"
 pubDate: '2022-12-12'
+description: "フィヨルドブートキャンプの Discord 用に作った 2 つの Bot の紹介。時刻になると全員をボイスチャンネルから退出させる bokan と、テキストチャンネルをアルファベット順に自動整列する sorta について。"
 ---
 
 これは [フィヨルドブートキャンプ Part 2 Advent Calendar 2022](https://adventar.org/calendars/7786) の 12 日目の記事です。

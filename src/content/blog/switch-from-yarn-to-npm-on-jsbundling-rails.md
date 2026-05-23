@@ -1,6 +1,7 @@
 ---
 title: "jsbundling-rails で yarn から npm に移行する"
 pubDate: '2024-03-01'
+description: "jsbundling-rails プロジェクトで yarn から npm に移行する手順。Dockerfile・Procfile.dev・bin/setup それぞれの変更点をコードとともに解説する。"
 ---
 
 初めから npm を使って jsbundling-rails をセットアップできるとよいのですが、そのような方法は v1.3.0 時点ではなさそうなので、yarn から npm に移行する方法を紹介します。やることは以下です。
