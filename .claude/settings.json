@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/cafedomancer/ghq/github.com/cafedomancer/personal-website commit -m ' *)"
+    ]
+  }
+}
